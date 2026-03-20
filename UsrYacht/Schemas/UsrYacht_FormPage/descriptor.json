@@ -1,0 +1,14 @@
+﻿{
+  "Descriptor": {
+    "UId": "6859e6ec-0078-4c70-83fd-72d341051196",
+    "Name": "UsrYacht_FormPage",
+    "ModifiedOnUtc": "\/Date(1773927664000)\/",
+    "Parent": {
+      "UId": "3b2e117f-8c6b-4ca5-80a2-7ebb497cddf9",
+      "Name": "PageWithTabsFreedomTemplate"
+    },
+    "ManagerName": "ClientUnitSchemaManager",
+    "Caption": "Yacht form page",
+    "DependsOn": []
+  }
+}
